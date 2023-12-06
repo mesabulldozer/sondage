@@ -1,0 +1,157 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "matricule": "1235/19",
+      "promotion": "LPTA4II",
+      "nom": "MESA",
+      "prenom": "chadrack",
+      "section": "Informatique"
+    },
+    {
+      "id": 2,
+      "matricule": "1335/19",
+      "promotion": "LPTA4II",
+      "nom": "KINKELA",
+      "prenom": "Voldi",
+      "section": "Informatique"
+    },
+    {
+      "id": 3,
+      "matricule": "1336/19",
+      "promotion": "LPTA34II",
+      "nom": "MATATA",
+      "prenom": "Amina",
+      "section": "Mecanique"
+    }
+  ],
+  "cours": [
+    {
+      "id": 1,
+      "titre": "maintenance",
+      "profId": "LINGOSU",
+      "promotion": "LPTA4II",
+      "section": "informatique"
+    },
+    {
+      "id": 2,
+      "titre": "supervision",
+      "prof": "MAVUELA",
+      "promotion": "LPTA4II",
+      "section": "informatique"
+    },
+    {
+      "id": 3,
+      "titre": "systeme embarque",
+      "prof": "ANGOMA-blaise",
+      "promotion": "LPTA4II",
+      "section": "informatique"
+    }
+  ],
+  "sondage-infra": [
+    {
+      "id": 1,
+      "1,auditoire": "Très bien",
+      "2,toillete": "Très propre",
+      "3,bibliotheque": "Oui",
+      "4,labo": "equipe",
+      "suggestion": "il faut arranger "
+    },
+    {
+      "1,auditoire": "Bien",
+      "2,toillete": "Très salle",
+      "3,bibliotheque": "Non",
+      "4labo": "pas du tout equipe",
+      "suggestion": "il faut arranger ",
+      "id": 2
+    },
+    {
+      "1,auditoire": "Bien",
+      "2,toillete": "salle",
+      "3,bibliotheque": "Je connais pas ça",
+      "4labo": "pas du tout equipe",
+      "suggestion": "il faut arranger ",
+      "id": 3
+    },
+    {
+      "1,auditoire": "Tres bien",
+      "2,toillete": "salle",
+      "3,bibliotheque": "Non",
+      "4labo": "bien equipe",
+      "suggestion": "il faut arranger ",
+      "id": 4
+    },
+    {
+      "1,auditoire": "Tres bien",
+      "2,toillete": "propre",
+      "3,bibliotheque": "Je connais pas ça",
+      "4labo": "Très bien equipe",
+      "suggestion": "je m'en fous de l'ispt",
+      "id": 5
+    },
+    {
+      "1,auditoire": "Bien",
+      "2,toillete": "propre",
+      "3,bibliotheque": "Oui",
+      "4labo": "bien equipe",
+      "suggestion": "il faut arranger ",
+      "id": 6
+    }
+  ],
+  "sondage-prof": [
+    {
+      "id": 1,
+      "1,Recommander": "oui",
+      "2,trouverCours": "Très bien",
+      "3,explication": "Très claire",
+      "4,concerner": "Très concerné",
+      "5,rythme": "Trop rapide",
+      "6,reponsesQuestion": "Très bien",
+      "7,instruit": "Très Instruit",
+      "8,structure": "Très structurée",
+      "9,interet": "female",
+      "10,respect": "female",
+      "suggestion": "il faut arranger "
+    }
+    
+  ],
+  "prof": [
+    {
+      "id": 1,
+      "nom": "MAVUELA",
+      "postnom": "Richard",
+      "section": "Informatique"
+    },
+    {
+      "id": 2,
+      "nom": "Muaka",
+      "postnom": "Justin",
+      "section": "Informatique"
+    },
+    {
+      "id": 3,
+      "nom": "BOBE",
+      "postnom": "ALIFI",
+      "section": "Informatique"
+    },
+    {
+      "id": 4,
+      "nom": "david",
+      "postnom": "dev",
+      "section": "Mecanique"
+    },
+    {
+      "id": 5,
+      "nom": "joy",
+      "postnom": "enjoy",
+      "section": "Mecanique"
+    }
+  ],
+  "Admin" : [
+    {
+      "id" :1,
+      "nom" : "Getou",
+      "password" :"12345"
+    }
+  ]
+}

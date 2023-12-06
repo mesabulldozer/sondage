@@ -1,0 +1,10 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:4 ;
+    align-items: center; /*pour que tout s'aligne, au centre) */
+    margin-top: .5rem;
+   
+}

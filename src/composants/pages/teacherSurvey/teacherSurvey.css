@@ -1,0 +1,44 @@
+.container-teyacherSurvey{
+    width: 710px;
+    border-radius: 24px;
+    border: solid #f3f5f5;
+    border-width: 64px 32px;
+    position: relative;
+    box-shadow: 0 8px 24px rgba(0,0,0,.2);
+   overflow: hidden;
+   /* align-items: center;*/
+    flex-direction: column;
+    display: flex;
+    padding: 25vh;
+}
+.container-teacherSurvey2{
+ 
+background-color: rgb(246, 248, 248);
+width: 450px;
+height: 550px;
+padding: 80px 80px 0;
+margin: 36px 0px 0px ;
+
+}
+
+
+label{
+    padding: 5px 8px 7px 8px;
+    margin-left: 2px;
+    margin-right: 2px;
+    display: block;
+   
+    
+}
+.row-radio-buttons-group{
+    border: 1px solid transparent;
+    cursor: pointer;
+    border-radius: 4px;
+    background-clip: padding-box;
+    gap: 1.5rem;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+
+

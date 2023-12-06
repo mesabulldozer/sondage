@@ -1,0 +1,17 @@
+.btnlink{
+  margin-bottom: 1rem;
+  display: block;
+  text-align: center;
+  width: 8rem;
+ }
+
+ .btnlink:hover{
+  color: #ffff;
+  opacity: .8;
+  transition: opacity 1s;
+ }
+
+.btnlink:focus,
+.btnlink:focus-visible {
+ outline: 4px auto -webkit-focus-ring-color;
+}
